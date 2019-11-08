@@ -1,0 +1,6 @@
+codecs
+lxml
+bs4
+urllib
+win_unicode_console
+colorama
