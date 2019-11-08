@@ -7,7 +7,7 @@ Crawnix is a python tool designed to crawl all the web pages from the website. C
 # Installation
 
 ```sh
-git clone http://github.com/Mehra1998/Crawnix.git
+git clone https://github.com/Ujjwalkamboj/Crawnix.git
 ```
 
 # Recomended Python Version :
